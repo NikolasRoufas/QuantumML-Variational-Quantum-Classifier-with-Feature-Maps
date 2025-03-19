@@ -74,6 +74,8 @@ The `QuantumMLSystem` class implements a hybrid quantum-classical machine learni
 - **Basic**: Simpler entangling layers with fewer parameters
 - **Custom**: Advanced circuit design with controlled rotation gates for increased expressivity
 
+![Quantum Circuit](figures/Figure_1.png)
+
 ### Optimizer Options
 
 - Adam
