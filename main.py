@@ -1,6 +1,6 @@
 """
 Quantum Machine Learning System: Variational Quantum Classifier with Quantum Feature Maps
-Author: [Your Name]
+Author: Nikolaos Roufas
 Date: March 19, 2025
 
 This module implements a scalable Quantum Machine Learning System (QMLS) using PennyLane
